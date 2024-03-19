@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
